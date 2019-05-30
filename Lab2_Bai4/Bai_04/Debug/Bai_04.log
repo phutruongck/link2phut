@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Bai_04.cpp
+d:\lab2\lab2_bai4\bai_04\bai_04.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : D:\Lab2\Lab2_Bai4\Debug\Bai_04.exe not found or not built by the last incremental link; performing full link
+  Bai_04.vcxproj -> D:\Lab2\Lab2_Bai4\Debug\Bai_04.exe
+  Bai_04.vcxproj -> D:\Lab2\Lab2_Bai4\Debug\Bai_04.pdb (Full PDB)
